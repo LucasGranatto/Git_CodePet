@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/pet.ts": {
+      "maxDuration": 10
+    }
+  }
+}
